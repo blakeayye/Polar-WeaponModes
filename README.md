@@ -1,2 +1,4 @@
 # Polar-WeaponModes
-A simple way to change weapons modes (single, burst, automatic) with a keybind
+A script that allows players to use "o" or a configerable button to change the weapon mode from Burst, Single fire, and Automatic
+
+Discord : https://discord.gg/e4SSqHdQhY
